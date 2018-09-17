@@ -5,8 +5,8 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Tests Complete\"",
-    "start": "node ./src/server.js",
-    "pretest": "eslint ./src --fix"
+    "start": "node ./src/server.js"
+
   },
   "author": "Bennett Schoonerman",
   "license": "ISC",
